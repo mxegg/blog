@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: o9读书写字的地方
+subtitle: '零玖书柜'
+description: '零玖书柜-行有不得,反求诸己'
 keywords:
-author: John Doe
-language: en
+author: Wan Peng
+language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://mxegg.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
